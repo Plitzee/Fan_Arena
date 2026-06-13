@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <!-- Stadium Bowl Background -->
+    <path
+        android:fillColor="#001233"
+        android:pathData="M256,450c-120,0-220,-45-220,-100v-50h440v50C476,405,376,450,256,450z" />
+    <!-- Inner Bowl -->
+    <path
+        android:fillColor="#002855"
+        android:pathData="M256,410c-90,0-180,-35-180,-80v-30h360v30C436,375,346,410,256,410z" />
+    <!-- Lightning Bolt -->
+    <path
+        android:fillColor="#2D62FF"
+        android:pathData="M310,80 L180,280 L250,280 L200,440 L340,220 L270,220 L310,80 Z" />
+    <!-- Spectators (simplified) -->
+    <path
+        android:fillColor="#2D62FF"
+        android:pathData="M 100, 200 m -12, 0 a 12,12 0 1,1 24,0 a 12,12 0 1,1 -24,0" />
+    <path android:fillColor="#2D62FF" android:pathData="M85,220h30v60h-30z"/>
+    <path
+        android:fillColor="#2D62FF"
+        android:pathData="M 150, 180 m -12, 0 a 12,12 0 1,1 24,0 a 12,12 0 1,1 -24,0" />
+    <path android:fillColor="#2D62FF" android:pathData="M135,200h30v80h-30z"/>
+    <path
+        android:fillColor="#2D62FF"
+        android:pathData="M 362, 180 m -12, 0 a 12,12 0 1,1 24,0 a 12,12 0 1,1 -24,0" />
+    <path android:fillColor="#2D62FF" android:pathData="M347,200h30v80h-30z"/>
+    <path
+        android:fillColor="#2D62FF"
+        android:pathData="M 412, 200 m -12, 0 a 12,12 0 1,1 24,0 a 12,12 0 1,1 -24,0" />
+    <path android:fillColor="#2D62FF" android:pathData="M397,220h30v60h-30z"/>
+</vector>

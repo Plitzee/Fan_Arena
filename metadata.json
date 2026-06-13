@@ -1,0 +1,6 @@
+{
+  "name": "FanArena",
+  "description": "Predict. Discuss. Compete. Live Sports Together. AI Match Insights. Purley virtual tokens, daily login streaks, achievements, and decentralized moderation hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
