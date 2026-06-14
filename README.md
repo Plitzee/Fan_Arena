@@ -43,6 +43,12 @@ Email: plitzee@gmail.com
 Password: huy123
 ```
 
+## Demo Video
+
+Watch the recorded project demo here:
+
+[FanArena demo video](docs/demo/fanarena-demo.webm)
+
 ## Run Locally
 
 ### Prerequisites
